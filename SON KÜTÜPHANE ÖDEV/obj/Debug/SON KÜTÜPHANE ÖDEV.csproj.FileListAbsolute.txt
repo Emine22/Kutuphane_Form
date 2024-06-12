@@ -1,0 +1,11 @@
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\bin\Debug\SON KÜTÜPHANE ÖDEV.exe.config
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\bin\Debug\SON KÜTÜPHANE ÖDEV.exe
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\bin\Debug\SON KÜTÜPHANE ÖDEV.pdb
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\obj\Debug\SON KÜTÜPHANE ÖDEV.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\obj\Debug\SON_KÜTÜPHANE_ÖDEV.Form1.resources
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\obj\Debug\SON_KÜTÜPHANE_ÖDEV.Properties.Resources.resources
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\obj\Debug\SON KÜTÜPHANE ÖDEV.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\obj\Debug\SON KÜTÜPHANE ÖDEV.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\obj\Debug\SON KÜTÜPHANE ÖDEV.exe
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\obj\Debug\SON KÜTÜPHANE ÖDEV.pdb
+C:\Users\emine\OneDrive\Masaüstü\SON KÜTÜPHANE ÖDEV\SON KÜTÜPHANE ÖDEV\obj\Debug\SON_KÜTÜPHANE_ÖDEV.Form2.resources
